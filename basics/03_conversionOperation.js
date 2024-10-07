@@ -18,4 +18,12 @@ console.log(typeof(newVal))
 //boolean
 // 1 => true;  0 => false
 // "" => false
-// "lisa" => true 
+// "lisa" => true
+
+
+// **************Operations***********
+
+
+//postfix vs prefix
+//If used postfix, with operator after operand (for example, x++), the increment operator increments and returns the value before incrementing.
+//If used prefix, with operator before operand (for example, ++x), the increment operator increments and returns the value after incrementing.
