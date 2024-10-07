@@ -24,6 +24,13 @@ console.log(typeof(newVal))
 // **************Operations***********
 
 
+console.log("1" + 2)
+console.log(1 + "2")
+console.log("1" + 2 + 2)
+console.log(1 + 2 + "2")
+console.log("1" + 2 + "2")
+
+
 //postfix vs prefix
 //If used postfix, with operator after operand (for example, x++), the increment operator increments and returns the value before incrementing.
 //If used prefix, with operator before operand (for example, ++x), the increment operator increments and returns the value after incrementing.
