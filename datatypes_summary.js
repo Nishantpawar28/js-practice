@@ -35,3 +35,10 @@ const func = function() {
 console.log(typeof arr)   //type is object
 console.log(typeof obj)     //type is object
 console.log(typeof func)    //type is function
+
+
+
+//***************Memory******************
+
+// Stach and Heap memory
+//Primitive types used stack memomry and non-primitive used heap memory
